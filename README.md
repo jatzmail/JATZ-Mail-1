@@ -2,9 +2,10 @@
 
 ## What it does
 This is an email sending code where you can send emails from any email of your choice.
+There are a few fun games included
 
 ## Requirements
-- It will have to be a Gmail account until further notice.
+- It can use any type of email address 
 - You will have to edit the sender_email to the email you want to send.
 - You will also have to edit the sender's email account to allow for less secure apps (Python)
 
