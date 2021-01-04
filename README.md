@@ -2,8 +2,8 @@
 
 ## What it does
 This is an email sending code where you can send emails from any email of your choice.
-There are a few fun games included
-To Open "Dev" section look through the code for the password. There are few more helpful things you can do there.
+There are a few fun games included.
+To open "Dev" section look through the code for the password. There are few more helpful things you can do there.
 
 ## Requirements
 - It can use any type of email address 
